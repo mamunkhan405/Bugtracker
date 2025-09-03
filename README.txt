@@ -59,5 +59,3 @@ Step 3: Test Each Endpoint
 
 ******* API Testing Guide using python script automation ******
    # Run the test_api_complete.py file in project environment
-
- Note: For testing purpose I have use In-Memory Channel Layer instead of Redis in settings.py 
